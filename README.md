@@ -3,12 +3,14 @@
 ###
 
 <div align="center">
- 
+  <img align="right" height="150" src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png"  />
+  <img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmRv55UMLge61IpP8wFv1onjUHAKq1PkoWQ&s"  />
+ <a href="https://www.credly.com/badges/72616bc6-1d35-4a5a-9463-778db3c05c47" target=”_blank”>AWS CLOUD PRACTIONER CREDENTIAL</a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif)"  />
 
 ###
 
@@ -42,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 <!--
