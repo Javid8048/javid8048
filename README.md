@@ -49,7 +49,11 @@
 ###
 
 <br clear="both">
-
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javid8048&theme=default&hide_border=true" alt="javid8048's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javid8048&theme=default&show_icons=true&hide_border=true&layout=compact" alt="javid8048's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=javid8048&theme=default&show_icons=true&hide_border=true&count_private=true" alt="javid8048's GitHub Stats" />
+</div>
 <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
