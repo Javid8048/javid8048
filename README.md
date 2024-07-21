@@ -5,7 +5,8 @@
 <div align="center">
   <img align="right" height="150" src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png"  />
   <img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmRv55UMLge61IpP8wFv1onjUHAKq1PkoWQ&s"  />
- <a href="https://www.credly.com/badges/72616bc6-1d35-4a5a-9463-778db3c05c47" target=”_blank”>AWS CLOUD PRACTIONER CREDENTIAL</a>
+ <a href="https://www.credly.com/badges/72616bc6-1d35-4a5a-9463-778db3c05c47" target=”_blank”>AWS CLOUD PRACTIONER CREDENTIAL</a> </br>
+ <a href="[https://www.credly.com/badges/72616bc6-1d35-4a5a-9463-778db3c05c47](https://rowadz.github.io/vexpest_V2/#/dashboard/javid8048)" target=”_blank”>Checkout my workflow as a dashboard. Click here.</a>
 </div>
 
 ###
@@ -49,7 +50,7 @@
 ###
 
 <br clear="both">
-<div style="display: flex">
+<div display="flex">
   <img style="height: 12rem" src="https://github-readme-streak-stats.herokuapp.com/?user=javid8048&theme=default&hide_border=true" alt="javid8048's GitHub Stats" />
   <img style="height: 12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javid8048&theme=default&show_icons=true&hide_border=true&layout=compact" alt="javid8048's GitHub Stats" />
   <img style="height: 12rem" src="https://github-readme-stats.vercel.app/api?username=javid8048&theme=default&show_icons=true&hide_border=true&count_private=true" alt="javid8048's GitHub Stats" />
