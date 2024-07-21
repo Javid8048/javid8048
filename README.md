@@ -49,7 +49,7 @@
 ###
 
 <br clear="both">
-<div style="display: flex; justify-content: space-evenly">
+<div style="display: flex">
   <img style="height: 12rem" src="https://github-readme-streak-stats.herokuapp.com/?user=javid8048&theme=default&hide_border=true" alt="javid8048's GitHub Stats" />
   <img style="height: 12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javid8048&theme=default&show_icons=true&hide_border=true&layout=compact" alt="javid8048's GitHub Stats" />
   <img style="height: 12rem" src="https://github-readme-stats.vercel.app/api?username=javid8048&theme=default&show_icons=true&hide_border=true&count_private=true" alt="javid8048's GitHub Stats" />
