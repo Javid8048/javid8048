@@ -6,7 +6,7 @@
   <img align="right" height="150" src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png"  />
   <img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmRv55UMLge61IpP8wFv1onjUHAKq1PkoWQ&s"  />
  <a href="https://www.credly.com/badges/72616bc6-1d35-4a5a-9463-778db3c05c47" target=”_blank”>AWS CLOUD PRACTIONER CREDENTIAL</a> </br>
- <a href="[https://www.credly.com/badges/72616bc6-1d35-4a5a-9463-778db3c05c47](https://rowadz.github.io/vexpest_V2/#/dashboard/javid8048)" target=”_blank”>Checkout my workflow as a dashboard. Click here.</a>
+ <a href="https://rowadz.github.io/vexpest_V2/#/dashboard/javid8048" target=”_blank”>Checkout my workflow as a dashboard. Click here.</a>
 </div>
 
 ###
@@ -36,13 +36,13 @@
 
 <div align="left">
 <!--   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> -->
-  <a href="https://www.instagram.com/javid_ashwaq_f/"> 
+  <a href="https://www.instagram.com/javid_ashwaq_f/" target=”_blank”> 
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a> 
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-   <a href="https://linkedin.com/in/javid-ashwaq-f/"> 
+   <a href="https://linkedin.com/in/javid-ashwaq-f/" target=”_blank”> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a> 
 </div>
